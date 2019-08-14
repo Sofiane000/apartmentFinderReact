@@ -1,0 +1,2014 @@
+{
+    "fields": [ 
+        "bedrooms",
+        "price",
+        "bathrooms",
+        "address",
+        "city",
+        "state",
+        "building_name",
+        "image_id"
+    ],
+    "data": [
+        [
+            1,
+            1600,
+            1,
+            "545 N State St",
+            "Ann Arbor",
+            "MI",
+            "High Street Apartments",
+            146534455
+        ],
+        [
+            0,
+            1225,
+            1,
+            "220 N 1st St",
+            "Ann Arbor",
+            "MI",
+            "220 N 1st St",
+            168276057
+        ],
+        [
+            1,
+            1375,
+            1,
+            "712 W Huron St",
+            "Ann Arbor",
+            "MI",
+            "712 W Huron St",
+            105086127
+        ],
+        [
+            0,
+            555,
+            1,
+            "536 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            "University Towers",
+            166325280
+        ],
+        [
+            0,
+            1400,
+            0,
+            "350 Thompson St",
+            "Ann Arbor",
+            "MI",
+            "350 Thompson St",
+            119544246
+        ],
+        [
+            2,
+            2025,
+            1,
+            "406 Packard St",
+            "Ann Arbor",
+            "MI",
+            "406 Packard St",
+            105086016
+        ],
+        [
+            2,
+            1150,
+            1,
+            "1225 S University Ave",
+            "Ann Arbor",
+            "MI",
+            "The 2nd Floor",
+            143986744
+        ],
+        [
+            6,
+            4375,
+            1,
+            "923 S State St",
+            "Ann Arbor",
+            "MI",
+            null,
+            147612019
+        ],
+        [
+            6,
+            6800,
+            3,
+            "1319 Forest Ct",
+            "Ann Arbor",
+            "MI",
+            null,
+            143755258
+        ],
+        [
+            2,
+            2250,
+            1,
+            "1101 Wellington Ct",
+            "Ann Arbor",
+            "MI",
+            null,
+            201332810
+        ],
+        [
+            5,
+            870,
+            4,
+            "425 S 5th Ave",
+            "Ann Arbor",
+            "MI",
+            "City Place Ann Arbor",
+            205938238
+        ],
+        [
+            0,
+            1690,
+            1,
+            "400 Maynard St",
+            "Ann Arbor",
+            "MI",
+            "400 Maynard",
+            205317678
+        ],
+        [
+            0,
+            1184,
+            1,
+            "425 E Washington St",
+            "Ann Arbor",
+            "MI",
+            "The Varsity Ann Arbor",
+            205352366
+        ],
+        [
+            2,
+            2070,
+            2,
+            "1020 Lincoln Ave",
+            "Ann Arbor",
+            "MI",
+            "1020 Lincoln Avenue",
+            195241531
+        ],
+        [
+            3,
+            2300,
+            1,
+            "211 N Ashley St",
+            "Ann Arbor",
+            "MI",
+            null,
+            194880877
+        ],
+        [
+            9,
+            5995,
+            2,
+            "300 E Jefferson St",
+            "Ann Arbor",
+            "MI",
+            null,
+            206252985
+        ],
+        [
+            6,
+            4900,
+            2,
+            "1016 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            null,
+            204086567
+        ],
+        [
+            5,
+            3650,
+            2,
+            "101 Hill St",
+            "Ann Arbor",
+            "MI",
+            null,
+            201709687
+        ],
+        [
+            3,
+            2000,
+            1,
+            "1045 Maiden Ln",
+            "Ann Arbor",
+            "MI",
+            null,
+            207829366
+        ],
+        [
+            1,
+            1425,
+            1,
+            "537 S 4th Ave #2",
+            "Ann Arbor",
+            "MI",
+            null,
+            154709043
+        ],
+        [
+            0,
+            800,
+            0,
+            "508 S Division St",
+            "Ann Arbor",
+            "MI",
+            "508 S. Division",
+            105130558
+        ],
+        [
+            6,
+            5400,
+            0,
+            "909 Packard St",
+            "Ann Arbor",
+            "MI",
+            "909 Packard",
+            196828156
+        ],
+        [
+            2,
+            1725,
+            1,
+            "1001 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            "1001 S. Forest",
+            203490545
+        ],
+        [
+            0,
+            1195,
+            1,
+            "543 Church St",
+            "Ann Arbor",
+            "MI",
+            "543 Church",
+            210001783
+        ],
+        [
+            1,
+            1080,
+            1,
+            "715 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            "Forest Plaza",
+            105092087
+        ],
+        [
+            0,
+            1000,
+            0,
+            "1337 Wilmot St",
+            "Ann Arbor",
+            "MI",
+            "1337 Wilmot",
+            195457246
+        ],
+        [
+            0,
+            1000,
+            0,
+            "912 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            "912 S Forest Ave",
+            194236139
+        ],
+        [
+            0,
+            500,
+            0,
+            "125 W Hoover Ave",
+            "Ann Arbor",
+            "MI",
+            "125 W. Hoover",
+            106757278
+        ],
+        [
+            0,
+            1000,
+            0,
+            "503 Church St",
+            "Ann Arbor",
+            "MI",
+            "503 Church St",
+            110266358
+        ],
+        [
+            0,
+            800,
+            0,
+            "721 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            "Forest Place",
+            106751142
+        ],
+        [
+            0,
+            800,
+            0,
+            "726 S State St",
+            "Ann Arbor",
+            "MI",
+            "Forum",
+            145833670
+        ],
+        [
+            0,
+            800,
+            0,
+            "909 Church St",
+            "Ann Arbor",
+            "MI",
+            "The Abbey",
+            145833668
+        ],
+        [
+            0,
+            750,
+            0,
+            "731 Packard St",
+            "Ann Arbor",
+            "MI",
+            "731 Packard St",
+            195846821
+        ],
+        [
+            0,
+            800,
+            0,
+            "1320 S University Ave",
+            "Ann Arbor",
+            "MI",
+            "Park Plaza",
+            145833532
+        ],
+        [
+            0,
+            800,
+            0,
+            "326 E Madison St",
+            "Ann Arbor",
+            "MI",
+            "326 E Madison St",
+            145833530
+        ],
+        [
+            0,
+            600,
+            0,
+            "511 E Hoover Ave",
+            "Ann Arbor",
+            "MI",
+            "511 E Hoover Ave",
+            151399146
+        ],
+        [
+            0,
+            600,
+            0,
+            "515 Lawrence St",
+            "Ann Arbor",
+            "MI",
+            "515 Lawrence St",
+            145833529
+        ],
+        [
+            0,
+            800,
+            0,
+            "520 Packard St",
+            "Ann Arbor",
+            "MI",
+            "520 Packard St",
+            145833531
+        ],
+        [
+            0,
+            1000,
+            0,
+            "425 Hill St",
+            "Ann Arbor",
+            "MI",
+            "425 Hill",
+            105085260
+        ],
+        [
+            1,
+            1525,
+            1,
+            "418 E Washington St",
+            "Ann Arbor",
+            "MI",
+            "418 E. Washington",
+            201716909
+        ],
+        [
+            3,
+            2250,
+            1,
+            "910 S State St",
+            "Ann Arbor",
+            "MI",
+            "910 S State St",
+            142053614
+        ],
+        [
+            4,
+            2975,
+            2,
+            "517 S 1st St",
+            "Ann Arbor",
+            "MI",
+            null,
+            182989811
+        ],
+        [
+            1,
+            1249,
+            1,
+            "520 N Ashley St",
+            "Ann Arbor",
+            "MI",
+            "520 N Ashley St",
+            106764717
+        ],
+        [
+            0,
+            935,
+            1,
+            "315 S Division St",
+            "Ann Arbor",
+            "MI",
+            "315 S. Division",
+            108441197
+        ],
+        [
+            3,
+            2195,
+            1,
+            "618 Lawrence St",
+            "Ann Arbor",
+            "MI",
+            "616/618 Lawrence",
+            149931831
+        ],
+        [
+            6,
+            5200,
+            1,
+            "712 Arch St",
+            "Ann Arbor",
+            "MI",
+            null,
+            210425951
+        ],
+        [
+            1,
+            3750,
+            1,
+            "808 Greene St",
+            "Ann Arbor",
+            "MI",
+            null,
+            210423066
+        ],
+        [
+            1,
+            1350,
+            1,
+            "800 Lawrence St",
+            "Ann Arbor",
+            "MI",
+            "800 Lawrence St",
+            null
+        ],
+        [
+            1,
+            1000,
+            1,
+            "610 Lawrence St",
+            "Ann Arbor",
+            "MI",
+            "610 Lawrence St",
+            107280618
+        ],
+        [
+            0,
+            1000,
+            1,
+            "723 Lawrence St",
+            "Ann Arbor",
+            "MI",
+            "723 Lawrence St",
+            163187224
+        ],
+        [
+            1,
+            750,
+            1,
+            "303 E Madison St",
+            "Ann Arbor",
+            "MI",
+            "303 E Madison St",
+            203523229
+        ],
+        [
+            2,
+            1200,
+            1,
+            "723 S Main St",
+            "Ann Arbor",
+            "MI",
+            "723 South Main Street",
+            150732792
+        ],
+        [
+            2,
+            1400,
+            1,
+            "201 N Ashley St #1",
+            "Ann Arbor",
+            "MI",
+            "201 N Ashley St",
+            106485140
+        ],
+        [
+            5,
+            3500,
+            2,
+            "910 S Main St #1",
+            "Ann Arbor",
+            "MI",
+            "910 S Main St",
+            201707047
+        ],
+        [
+            3,
+            2100,
+            1,
+            "801 E Ann St",
+            "Ann Arbor",
+            "MI",
+            "801 E Ann St",
+            146311102
+        ],
+        [
+            1,
+            1649,
+            1,
+            "1014 Church St",
+            "Ann Arbor",
+            "MI",
+            "Fritz Lofts - 1014 Church St.",
+            141796991
+        ],
+        [
+            2,
+            1810,
+            1,
+            "912 Oakland Ave",
+            "Ann Arbor",
+            "MI",
+            "912 Oakland Ave",
+            200688684
+        ],
+        [
+            6,
+            4900,
+            1,
+            "737 Packard St",
+            "Ann Arbor",
+            "MI",
+            "737 Packard",
+            182252969
+        ],
+        [
+            2,
+            2200,
+            2,
+            "1019 Maiden Ln",
+            "Ann Arbor",
+            "MI",
+            null,
+            209840212
+        ],
+        [
+            0,
+            995,
+            1,
+            "625 Church St",
+            "Ann Arbor",
+            "MI",
+            "625 Church",
+            200015347
+        ],
+        [
+            1,
+            1350,
+            1,
+            "526 Packard St",
+            "Ann Arbor",
+            "MI",
+            "526 Packard",
+            200238818
+        ],
+        [
+            6,
+            4800,
+            2,
+            "510 N State St",
+            "Ann Arbor",
+            "MI",
+            null,
+            195232578
+        ],
+        [
+            2,
+            1495,
+            1,
+            "609 S 5th Ave",
+            "Ann Arbor",
+            "MI",
+            "609 S 5th Ave",
+            209398652
+        ],
+        [
+            0,
+            1100,
+            1,
+            "1303 Wilmot St",
+            "Ann Arbor",
+            "MI",
+            "1303 Wilmot St",
+            139043997
+        ],
+        [
+            2,
+            1590,
+            1,
+            "829 Tappan Ave",
+            "Ann Arbor",
+            "MI",
+            "829 Tappan Ave",
+            149637779
+        ],
+        [
+            6,
+            4995,
+            3,
+            "527 Packard St",
+            "Ann Arbor",
+            "MI",
+            null,
+            196401068
+        ],
+        [
+            6,
+            4200,
+            4,
+            "900 Fuller St",
+            "Ann Arbor",
+            "MI",
+            null,
+            196170499
+        ],
+        [
+            6,
+            4800,
+            3,
+            "330 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            null,
+            201151615
+        ],
+        [
+            2,
+            1700,
+            1,
+            "208 N 1st St #1",
+            "Ann Arbor",
+            "MI",
+            "208 N 1st St",
+            174946770
+        ],
+        [
+            5,
+            4095,
+            2,
+            "601 N 5th Ave",
+            "Ann Arbor",
+            "MI",
+            null,
+            204809847
+        ],
+        [
+            0,
+            975,
+            1,
+            "539 S 5th Ave",
+            "Ann Arbor",
+            "MI",
+            "539 S 5th Ave",
+            105112290
+        ],
+        [
+            0,
+            920,
+            1,
+            "307 Thompson St",
+            "Ann Arbor",
+            "MI",
+            "307 Thompson",
+            105085235
+        ],
+        [
+            0,
+            1025,
+            0,
+            "914 Vaughn St",
+            "Ann Arbor",
+            "MI",
+            "914 Vaughn",
+            203988552
+        ],
+        [
+            5,
+            4000,
+            2,
+            "315 E Liberty St",
+            "Ann Arbor",
+            "MI",
+            null,
+            201709515
+        ],
+        [
+            1,
+            625,
+            0,
+            "608 Mary Ct",
+            "Ann Arbor",
+            "MI",
+            "608 Mary Court",
+            193727135
+        ],
+        [
+            0,
+            600,
+            2,
+            "812 Brown St #B",
+            "Ann Arbor",
+            "MI",
+            null,
+            187817234
+        ],
+        [
+            0,
+            595,
+            0,
+            "533 Elizabeth St",
+            "Ann Arbor",
+            "MI",
+            "533 Elizabeth St",
+            105139240
+        ],
+        [
+            5,
+            3750,
+            2,
+            "Hill St",
+            "Ann Arbor",
+            "MI",
+            null,
+            208664214
+        ],
+        [
+            9,
+            6800,
+            3,
+            "428 Hamilton Pl",
+            "Ann Arbor",
+            "MI",
+            null,
+            197754170
+        ],
+        [
+            3,
+            1500,
+            1,
+            "323 Pauline Blvd",
+            "Ann Arbor",
+            "MI",
+            null,
+            193965517
+        ],
+        [
+            2,
+            1020,
+            1,
+            "912 Brown St",
+            "Ann Arbor",
+            "MI",
+            "912 Brown St",
+            148708152
+        ],
+        [
+            1,
+            1200,
+            1,
+            "534 Detroit St",
+            "Ann Arbor",
+            "MI",
+            "534 Detroit St",
+            208120867
+        ],
+        [
+            5,
+            4000,
+            2,
+            "115 Beakes St",
+            "Ann Arbor",
+            "MI",
+            null,
+            208120778
+        ],
+        [
+            0,
+            600,
+            0,
+            "514 N Division St",
+            "Ann Arbor",
+            "MI",
+            null,
+            208120762
+        ],
+        [
+            1,
+            1195,
+            1,
+            "512 N Ashley St",
+            "Ann Arbor",
+            "MI",
+            "512 N Ashley St",
+            141799300
+        ],
+        [
+            2,
+            725,
+            1,
+            "727 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            "727 E Kingsley St",
+            105100147
+        ],
+        [
+            7,
+            5100,
+            2,
+            "306 N State St",
+            "Ann Arbor",
+            "MI",
+            null,
+            201621492
+        ],
+        [
+            0,
+            935,
+            1,
+            "328 E William St",
+            "Ann Arbor",
+            "MI",
+            "328 E William St",
+            141797417
+        ],
+        [
+            2,
+            2600,
+            1,
+            "623 W Huron St ## 1",
+            "Ann Arbor",
+            "MI",
+            null,
+            207897100
+        ],
+        [
+            2,
+            1430,
+            1,
+            "813 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            "kingsley manor",
+            207829242
+        ],
+        [
+            1,
+            750,
+            1,
+            "809 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            "809 E Kingsley St",
+            155568906
+        ],
+        [
+            0,
+            949,
+            1,
+            "1100 Hill St",
+            "Ann Arbor",
+            "MI",
+            "1100 Hill St",
+            146538150
+        ],
+        [
+            6,
+            5920,
+            3,
+            "425 Church St",
+            "Ann Arbor",
+            "MI",
+            null,
+            144283683
+        ],
+        [
+            6,
+            5880,
+            2,
+            "939 Greenwood Ave",
+            "Ann Arbor",
+            "MI",
+            null,
+            144283725
+        ],
+        [
+            6,
+            5400,
+            3,
+            "505 E Hoover Ave",
+            "Ann Arbor",
+            "MI",
+            "505 E. Hoover",
+            145108110
+        ],
+        [
+            2,
+            1500,
+            1,
+            "927 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            "927 S. Forest",
+            204335351
+        ],
+        [
+            2,
+            1695,
+            1,
+            "521 Walnut St",
+            "Ann Arbor",
+            "MI",
+            "521 Walnut",
+            207133868
+        ],
+        [
+            4,
+            2995,
+            2,
+            "506 W Washington St",
+            "Ann Arbor",
+            "MI",
+            null,
+            205910220
+        ],
+        [
+            5,
+            3400,
+            2,
+            "106 W Madison St",
+            "Ann Arbor",
+            "MI",
+            null,
+            201709860
+        ],
+        [
+            0,
+            825,
+            1,
+            "402 S 4th Ave",
+            "Ann Arbor",
+            "MI",
+            "402 South 4th Avenue",
+            201709507
+        ],
+        [
+            3,
+            2450,
+            1,
+            "402 Koch Ave",
+            "Ann Arbor",
+            "MI",
+            null,
+            201155905
+        ],
+        [
+            6,
+            4620,
+            2,
+            "126 Hill St",
+            "Ann Arbor",
+            "MI",
+            null,
+            202979858
+        ],
+        [
+            2,
+            1600,
+            1,
+            "211 N Main St",
+            "Ann Arbor",
+            "MI",
+            "211 North Main Street",
+            190179713
+        ],
+        [
+            0,
+            900,
+            1,
+            "423 Hamilton Pl",
+            "Ann Arbor",
+            "MI",
+            "423 Hamilton Pl",
+            143755285
+        ],
+        [
+            3,
+            2500,
+            1,
+            "420 S Division St",
+            "Ann Arbor",
+            "MI",
+            "420 S Division St",
+            140728203
+        ],
+        [
+            3,
+            2950,
+            1,
+            "331 Catherine St",
+            "Ann Arbor",
+            "MI",
+            "331 Catherine",
+            207549015
+        ],
+        [
+            0,
+            705,
+            1,
+            "820 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            "820 E Kingsley St",
+            150447344
+        ],
+        [
+            6,
+            4800,
+            2,
+            "319 Catherine St",
+            "Ann Arbor",
+            "MI",
+            null,
+            206463306
+        ],
+        [
+            6,
+            4500,
+            2,
+            "532 Elm St",
+            "Ann Arbor",
+            "MI",
+            null,
+            195865674
+        ],
+        [
+            7,
+            5950,
+            3,
+            "1207 Willard St",
+            "Ann Arbor",
+            "MI",
+            "1207 Willard",
+            null
+        ],
+        [
+            0,
+            1195,
+            1,
+            "1021 E University Ave",
+            "Ann Arbor",
+            "MI",
+            "1021 E University Ave",
+            142610201
+        ],
+        [
+            0,
+            1230,
+            1,
+            "208 N Division St",
+            "Ann Arbor",
+            "MI",
+            "208 N. Division",
+            145107681
+        ],
+        [
+            6,
+            4350,
+            3,
+            "142 Hill St",
+            "Ann Arbor",
+            "MI",
+            null,
+            112949343
+        ],
+        [
+            5,
+            3000,
+            1,
+            "109 Hill St",
+            "Ann Arbor",
+            "MI",
+            null,
+            142608765
+        ],
+        [
+            1,
+            1350,
+            1,
+            "848 Tappan Ave",
+            "Ann Arbor",
+            "MI",
+            "848 Tappan",
+            204318026
+        ],
+        [
+            1,
+            1030,
+            1,
+            "309 E Madison St",
+            "Ann Arbor",
+            "MI",
+            "309 E Madison St",
+            203523316
+        ],
+        [
+            0,
+            975,
+            1,
+            "526 Linden St",
+            "Ann Arbor",
+            "MI",
+            "526 Linden",
+            204445923
+        ],
+        [
+            1,
+            1350,
+            1,
+            "911 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            "911 S. Forest",
+            206816459
+        ],
+        [
+            4,
+            3200,
+            1,
+            "1205 Cambridge Ct",
+            "Ann Arbor",
+            "MI",
+            null,
+            204300964
+        ],
+        [
+            3,
+            2260,
+            1,
+            "404 N Thayer St",
+            "Ann Arbor",
+            "MI",
+            "404 N Thayer St",
+            195457176
+        ],
+        [
+            0,
+            875,
+            1,
+            "502 N State St",
+            "Ann Arbor",
+            "MI",
+            "502 N State St",
+            105086311
+        ],
+        [
+            0,
+            875,
+            1,
+            "109 N Thayer St",
+            "Ann Arbor",
+            "MI",
+            "109 N Thayer St",
+            142607723
+        ],
+        [
+            2,
+            1650,
+            1,
+            "609 Lawrence St",
+            "Ann Arbor",
+            "MI",
+            "609 Lawrence",
+            null
+        ],
+        [
+            0,
+            850,
+            0,
+            "613 Hill St",
+            "Ann Arbor",
+            "MI",
+            "613 Hill Street",
+            203988529
+        ],
+        [
+            4,
+            3600,
+            3,
+            "114 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            null,
+            165777948
+        ],
+        [
+            1,
+            1010,
+            1,
+            "118 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            "118 E Kingsley St",
+            194377871
+        ],
+        [
+            3,
+            3700,
+            2,
+            "111 N Ashley St",
+            "Ann Arbor",
+            "MI",
+            null,
+            203830211
+        ],
+        [
+            0,
+            1020,
+            1,
+            "401 S Division St",
+            "Ann Arbor",
+            "MI",
+            "401 S.  Division",
+            203808781
+        ],
+        [
+            2,
+            1540,
+            1,
+            "318 John St",
+            "Ann Arbor",
+            "MI",
+            "318 John Street",
+            201505817
+        ],
+        [
+            6,
+            4100,
+            2,
+            "544 N State St",
+            "Ann Arbor",
+            "MI",
+            null,
+            205675895
+        ],
+        [
+            2,
+            1405,
+            1,
+            "125 Hill St",
+            "Ann Arbor",
+            "MI",
+            "125 Hill St",
+            206474386
+        ],
+        [
+            1,
+            995,
+            1,
+            "715 W Madison St",
+            "Ann Arbor",
+            "MI",
+            "715 W Madison St",
+            105163766
+        ],
+        [
+            1,
+            1195,
+            1,
+            "527 S 4th Ave",
+            "Ann Arbor",
+            "MI",
+            "527 S 4th Ave",
+            106762775
+        ],
+        [
+            1,
+            915,
+            1,
+            "523 N Main St",
+            "Ann Arbor",
+            "MI",
+            "523 N Main St",
+            141798733
+        ],
+        [
+            0,
+            975,
+            1,
+            "441 S 1st St",
+            "Ann Arbor",
+            "MI",
+            "441 S 1st St",
+            105129527
+        ],
+        [
+            1,
+            1095,
+            1,
+            "316 E Madison St",
+            "Ann Arbor",
+            "MI",
+            "316 E Madison St",
+            105129497
+        ],
+        [
+            6,
+            5835,
+            2,
+            "809 Mary St",
+            "Ann Arbor",
+            "MI",
+            null,
+            144283711
+        ],
+        [
+            1,
+            1125,
+            1,
+            "409 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            "409 E Kingsley St",
+            106753997
+        ],
+        [
+            3,
+            2375,
+            1,
+            "312 Beakes St",
+            "Ann Arbor",
+            "MI",
+            "312 Beakes St",
+            209398559
+        ],
+        [
+            1,
+            1005,
+            1,
+            "311 S 5th Ave",
+            "Ann Arbor",
+            "MI",
+            "311 1/2 S 5th Ave",
+            106753975
+        ],
+        [
+            0,
+            895,
+            1,
+            "310 E Liberty St",
+            "Ann Arbor",
+            "MI",
+            "310 E. Liberty",
+            141797188
+        ],
+        [
+            2,
+            1425,
+            1,
+            "310 Beakes St",
+            "Ann Arbor",
+            "MI",
+            "310 Beakes St",
+            141797164
+        ],
+        [
+            2,
+            1475,
+            1,
+            "415 E Hoover Ave",
+            "Ann Arbor",
+            "MI",
+            "415 E Hoover Ave",
+            105106986
+        ],
+        [
+            0,
+            870,
+            1,
+            "530 Hill St",
+            "Ann Arbor",
+            "MI",
+            "530 Hill St",
+            153131889
+        ],
+        [
+            1,
+            990,
+            1,
+            "818 Church St",
+            "Ann Arbor",
+            "MI",
+            "818 Church St",
+            153131877
+        ],
+        [
+            0,
+            860,
+            1,
+            "816 Tappan Ave",
+            "Ann Arbor",
+            "MI",
+            "816 Tappan Ave",
+            153131869
+        ],
+        [
+            5,
+            2950,
+            2,
+            "1014 Vaughn St",
+            "Ann Arbor",
+            "MI",
+            "1014 Vaughn St",
+            105182350
+        ],
+        [
+            1,
+            880,
+            1,
+            "314 Packard St",
+            "Ann Arbor",
+            "MI",
+            "314 Packard St",
+            153131895
+        ],
+        [
+            0,
+            920,
+            1,
+            "524 Hill St",
+            "Ann Arbor",
+            "MI",
+            "524 Hill St",
+            153131883
+        ],
+        [
+            2,
+            1600,
+            1,
+            "806 Arch St",
+            "Ann Arbor",
+            "MI",
+            "806 Arch St",
+            146538111
+        ],
+        [
+            2,
+            1595,
+            1,
+            "442 3rd St",
+            "Ann Arbor",
+            "MI",
+            "442 3rd St",
+            141798512
+        ],
+        [
+            3,
+            2695,
+            1,
+            "415 N Division St",
+            "Ann Arbor",
+            "MI",
+            "415 N. Division",
+            202848767
+        ],
+        [
+            3,
+            2900,
+            2,
+            "930 Mary St",
+            "Ann Arbor",
+            "MI",
+            null,
+            198994890
+        ],
+        [
+            5,
+            1150,
+            2,
+            "611 Church St",
+            "Ann Arbor",
+            "MI",
+            "611 Church St",
+            201489571
+        ],
+        [
+            6,
+            6115,
+            3,
+            "929 Church St",
+            "Ann Arbor",
+            "MI",
+            null,
+            194683231
+        ],
+        [
+            0,
+            955,
+            1,
+            "630 Packard St",
+            "Ann Arbor",
+            "MI",
+            "630 Packard",
+            144283053
+        ],
+        [
+            3,
+            2550,
+            1,
+            "727 Packard St",
+            "Ann Arbor",
+            "MI",
+            "727 Packard",
+            144283037
+        ],
+        [
+            3,
+            2850,
+            2,
+            "411 N State St",
+            "Ann Arbor",
+            "MI",
+            "411 N. State",
+            202040066
+        ],
+        [
+            2,
+            1750,
+            1,
+            "539 Packard St",
+            "Ann Arbor",
+            "MI",
+            "539 Packard",
+            210884264
+        ],
+        [
+            2,
+            2125,
+            1,
+            "815 Church St",
+            "Ann Arbor",
+            "MI",
+            null,
+            201964863
+        ],
+        [
+            5,
+            4000,
+            2,
+            "1111 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            null,
+            156621323
+        ],
+        [
+            4,
+            3395,
+            2,
+            "215 E Madison St",
+            "Ann Arbor",
+            "MI",
+            null,
+            141490326
+        ],
+        [
+            1,
+            2700,
+            1,
+            "111 N Ashley St",
+            "Ann Arbor",
+            "MI",
+            null,
+            201647173
+        ],
+        [
+            0,
+            960,
+            1,
+            "332 E William St",
+            "Ann Arbor",
+            "MI",
+            "332 E William St",
+            105257984
+        ],
+        [
+            2,
+            1650,
+            1,
+            "1020 Church St #2",
+            "Ann Arbor",
+            "MI",
+            "1020 Church St",
+            146107874
+        ],
+        [
+            6,
+            5200,
+            3,
+            "816 Packard St",
+            "Ann Arbor",
+            "MI",
+            "816 Packard St",
+            141797311
+        ],
+        [
+            1,
+            1095,
+            1,
+            "336 E Madison St",
+            "Ann Arbor",
+            "MI",
+            "336 E. Madison",
+            201505955
+        ],
+        [
+            0,
+            700,
+            1,
+            "529 Elizabeth St",
+            "Ann Arbor",
+            "MI",
+            "529 Elizabeth St",
+            105118576
+        ],
+        [
+            1,
+            925,
+            1,
+            "909 Wall St",
+            "Ann Arbor",
+            "MI",
+            "909 Wall St",
+            148058467
+        ],
+        [
+            3,
+            2625,
+            1,
+            "119 W Mosley St",
+            "Ann Arbor",
+            "MI",
+            null,
+            201306789
+        ],
+        [
+            0,
+            1250,
+            1,
+            "515 Walnut St",
+            "Ann Arbor",
+            "MI",
+            "515 Walnut",
+            198286830
+        ],
+        [
+            1,
+            975,
+            1,
+            "110 Hill St",
+            "Ann Arbor",
+            "MI",
+            "110 Hill St",
+            160063249
+        ],
+        [
+            1,
+            1150,
+            1,
+            "532 3rd St",
+            "Ann Arbor",
+            "MI",
+            "532 3rd St",
+            108440824
+        ],
+        [
+            2,
+            1250,
+            1,
+            "550 S Ashley St",
+            "Ann Arbor",
+            "MI",
+            "550 S Ashley St",
+            149931834
+        ],
+        [
+            1,
+            995,
+            1,
+            "513 Elm St",
+            "Ann Arbor",
+            "MI",
+            "513 Elm St",
+            149637825
+        ],
+        [
+            0,
+            800,
+            1,
+            "114 N Division St",
+            "Ann Arbor",
+            "MI",
+            "114 N Division St",
+            149637800
+        ],
+        [
+            0,
+            875,
+            1,
+            "607 E Ann St",
+            "Ann Arbor",
+            "MI",
+            "607 E Ann St",
+            105085022
+        ],
+        [
+            0,
+            795,
+            1,
+            "600 E Kingsley St",
+            "Ann Arbor",
+            "MI",
+            "600 E Kingsley St",
+            149931803
+        ],
+        [
+            0,
+            1090,
+            1,
+            "1010 Catherine St",
+            "Ann Arbor",
+            "MI",
+            "Bradford House",
+            111827214
+        ],
+        [
+            0,
+            750,
+            1,
+            "1100 S Forest Ave",
+            "Ann Arbor",
+            "MI",
+            "1100 S Forest Ave",
+            149931792
+        ],
+        [
+            1,
+            1100,
+            1,
+            "1321 Wilmot St",
+            "Ann Arbor",
+            "MI",
+            "1321 Wilmot St",
+            149638903
+        ],
+        [
+            0,
+            915,
+            1,
+            "432 S Division St",
+            "Ann Arbor",
+            "MI",
+            "432 S Division St",
+            143193985
+        ],
+        [
+            0,
+            775,
+            1,
+            "331 Packard St",
+            "Ann Arbor",
+            "MI",
+            "331 Packard",
+            198605462
+        ],
+        [
+            2,
+            1500,
+            1,
+            "308 Packard St",
+            "Ann Arbor",
+            "MI",
+            "308 Packard St",
+            105155136
+        ],
+        [
+            1,
+            825,
+            1,
+            "121 E Hoover Ave",
+            "Ann Arbor",
+            "MI",
+            "Tradewind Apartments",
+            148708162
+        ],
+        [
+            2,
+            2085,
+            1,
+            "1335 Geddes Ave",
+            "Ann Arbor",
+            "MI",
+            "1335 Geddes Ave",
+            147142320
+        ],
+        [
+            1,
+            905,
+            1,
+            "601 E William St",
+            "Ann Arbor",
+            "MI",
+            "601 E William St",
+            147142334
+        ],
+        [
+            1,
+            980,
+            1,
+            "1223 Hill St",
+            "Ann Arbor",
+            "MI",
+            "1223 Hill St",
+            147000190
+        ],
+        [
+            2,
+            1995,
+            1,
+            "1341 Geddes Ave",
+            "Ann Arbor",
+            "MI",
+            "1341 Geddes Ave",
+            147142325
+        ],
+        [
+            0,
+            795,
+            1,
+            "311 S Division St",
+            "Ann Arbor",
+            "MI",
+            "311 S Division St",
+            147142323
+        ],
+        [
+            1,
+            975,
+            1,
+            "1015 Church St",
+            "Ann Arbor",
+            "MI",
+            "1015 Church St",
+            106748567
+        ],
+        [
+            2,
+            1225,
+            1,
+            "822 Arch St",
+            "Ann Arbor",
+            "MI",
+            "822 Arch St",
+            106748569
+        ],
+        [
+            1,
+            1010,
+            1,
+            "317 E Ann St",
+            "Ann Arbor",
+            "MI",
+            "317 E Ann St",
+            147142321
+        ],
+        [
+            0,
+            925,
+            1,
+            "426 S Division St",
+            "Ann Arbor",
+            "MI",
+            "426 S Division St",
+            106752396
+        ],
+        [
+            2,
+            1800,
+            1,
+            "521 N Division St #2",
+            "Ann Arbor",
+            "MI",
+            null,
+            148863054
+        ],
+        [
+            0,
+            1100,
+            1,
+            "205 S State St",
+            "Ann Arbor",
+            "MI",
+            "Corner House Apartments",
+            162648814
+        ],
+        [
+            4,
+            2300,
+            1,
+            "720 S Main St",
+            "Ann Arbor",
+            "MI",
+            null,
+            148708208
+        ],
+        [
+            4,
+            2500,
+            1,
+            "337 3rd St",
+            "Ann Arbor",
+            "MI",
+            null,
+            196401064
+        ],
+        [
+            2,
+            1725,
+            1,
+            "1020 Oakland Ave",
+            "Ann Arbor",
+            "MI",
+            null,
+            145976095
+        ],
+        [
+            1,
+            1065,
+            1,
+            "607 Hill St",
+            "Ann Arbor",
+            "MI",
+            "607 Hill St",
+            105238197
+        ]
+    ]
+}
